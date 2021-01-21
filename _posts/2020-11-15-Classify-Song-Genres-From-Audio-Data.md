@@ -3,7 +3,7 @@ title: "Classify Song Genres from Audio Data"
 date: 2020-11-15
 tags: [machine learning, data science]
 header:
-  image: # "/images/perceptron/percept.jpg"
+  image: 
 excerpt: "Machine Learning, Data Science"
 mathjax: "true"
 ---

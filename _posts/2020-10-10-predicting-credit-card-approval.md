@@ -3,7 +3,7 @@ title: "Predicting Credit Card Approvals"
 date: 2020-10-10
 tags: [machine learning, data manipulation]
 header:
-  image:
+  image: "/images/waterfront.jpg"
 excerpt: "Machine Learning, Data Manipulation"
 mathjax: "true"
 ---

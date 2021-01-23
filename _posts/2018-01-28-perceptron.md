@@ -56,6 +56,8 @@ Here's an image:
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
 
+/images/output_5_0.png
+
 Here's some math:
 
 $$z=x+y$$

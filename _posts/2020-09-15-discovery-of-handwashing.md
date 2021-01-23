@@ -165,7 +165,7 @@ ax.set_ylabel('Proportion deaths')
 
 
 
-![png](hand-washing/output_11_1.png)
+![png](/hand-washing/output_11_1.png)
 
 
 ### More handwashing, fewer deaths?

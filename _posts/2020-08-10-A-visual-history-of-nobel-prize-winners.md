@@ -373,7 +373,7 @@ ax.yaxis.set_major_formatter(PercentFormatter(1.0))
 ```
 
 
-![png](output_7_0.png)
+![png](/nobel-prize/output_7_0.png)
 
 
 ### What is the gender of a typical Nobel Prize winner?
@@ -392,7 +392,7 @@ ax.yaxis.set_major_formatter(PercentFormatter(1.0))
 ```
 
 
-![png](output_9_0.png)
+![png](/nobel-prize/output_9_0.png)
 
 
 ### The first woman to win the Nobel Prize
@@ -878,7 +878,7 @@ sns.lmplot(x='year', y='age', data=nobel)
 
 
 
-![png](output_15_1.png)
+![png](/nobel-prize/output_15_1.png)
 
 
 ### Age differences between prize categories
@@ -903,7 +903,7 @@ sns.lmplot(x='year', y='age', data=nobel, row='category')
 
 
 
-![png](output_17_1.png)
+![png](/nobel-orize/output_17_1.png)
 
 
 ### Oldest and youngest winners

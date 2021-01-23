@@ -674,7 +674,7 @@ ax.set_xlabel('Principal Component #')
 
 
 
-![png](output_8_1.png)
+![png](/classify-song images/output_8_1.png)
 
 
 ### Further visualization of PCA
@@ -706,7 +706,7 @@ pca_projection = pca.transform(scaled_train_features)
 ```
 
 
-![png](output_10_0.png)
+![png](/classify-song images/output_10_0.png)
 
 
 ### Train a decision tree to classify genre

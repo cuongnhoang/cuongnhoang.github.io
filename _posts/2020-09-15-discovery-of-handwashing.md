@@ -90,7 +90,7 @@ ax.set_ylabel('Proportion deaths')
 
 
 
-![png](output_5_1.png)
+![png](/hand-washing/output_5_1.png)
 
 
 ### The handwashing begins
@@ -132,7 +132,7 @@ ax.set_ylabel('Proportion deaths')
 
 
 
-![png](output_9_1.png)
+![png](/hand-washing/output_9_1.png)
 
 
 ### The effect of handwashing highlighted
@@ -165,7 +165,7 @@ ax.set_ylabel('Proportion deaths')
 
 
 
-![png](output_11_1.png)
+![png](hand-washing/output_11_1.png)
 
 
 ### More handwashing, fewer deaths?

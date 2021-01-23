@@ -120,7 +120,7 @@ counts.plot(kind='bar', figsize = (12,4))
 
 
 
-![png](output_8_1.png)
+![png](/scala/output_8_1.png)
 
 
 ### Is there camaraderie in the project?
@@ -148,7 +148,7 @@ by_user.hist()
 
 
 
-![png](output_10_1.png)
+![png](/scala/output_10_1.png)
 
 
 ### What files were changed in the last ten pull request?
@@ -356,7 +356,7 @@ counts_wide.plot(kind='bar')
 
 
 
-![png](output_18_1.png)
+![png](/scala/output_18_1.png)
 
 
 ### Visualizing the contributions of each developer
@@ -392,4 +392,4 @@ by_file_wide.plot(kind='bar')
 
 
 
-![png](output_20_1.png)
+![png](/scala/output_20_1.png)

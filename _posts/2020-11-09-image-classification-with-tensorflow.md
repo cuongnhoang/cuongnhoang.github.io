@@ -51,7 +51,7 @@ plt.show()
 ```
 
 
-![png](/image-classification/output_5_0.png)
+![png](/Image-classification/output_5_0.png)
 
 
 Now we're going to scale these values to a range of 0 to 1 before passing them to the neural network model. To do this, we need to divide the value by 255. The training set and the test set should be preprocessed in the same way
@@ -78,7 +78,7 @@ plt.show()
 ```
 
 
-![png](/image-classification/output_9_0.png)
+![png](/Image-classification/output_9_0.png)
 
 
 ### Building model
@@ -226,7 +226,7 @@ plt.show()
 ```
 
 
-![png](/image-classification/output_23_0.png)
+![png](/Image-classification/output_23_0.png)
 
 
 
@@ -247,7 +247,7 @@ plt.show()
 ```
 
 
-![png](/image-classification/output_24_0.png)
+![png](/Image-classification/output_24_0.png)
 
 
 ### Conclusion
